@@ -1,14 +1,14 @@
 # ♻️ Ecoleta
 
 
-##Sobre
+## Sobre
 
 O Ecoleta é uma aplicação Web e Mobile para ajudar pessoas a encontrarem pontos no mapa para o descarte correto de lixos residenciais, de acordo com a seleção dos items que o usuário deseja descartar.
 
 Esta aplicação foi construída na trilha Booster da Next Level Week da [Rocketseat](https://rocketseat.com.br/).
 
 
-##Layout
+## Layout
 
 O layout pode ser consultado no projeto do [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=0%3A1)
 
@@ -35,13 +35,13 @@ Essas instruções fornecerão uma cópia do projeto em execução na sua máqui
 * [Expo](https://expo.io/)
 
 
-# Clone este repositório
+### Clone este repositório
 ```
 # Em seu terminal execute
 git clone https://github.com/predodamiao/Ecoleta.git
 
 ```
-# Ecoleta Api
+### Ecoleta Api
 ```
 # Rode na pasta server
 npm install
@@ -50,7 +50,7 @@ npm run knex:seed
 # Inicie a api
 npm run dev
 ```
-# Ecoleta Web
+### Ecoleta Web
 ```
 # Rode na pasta web
 npm install
@@ -58,7 +58,7 @@ npm install
 npm start
 ```
 
-# Ecoleta Mobile
+### Ecoleta Mobile
 ```
 # Rode na pasta mobile
 npm install
